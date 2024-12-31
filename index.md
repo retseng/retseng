@@ -2,7 +2,7 @@
 ***
 - 👋 Bonjour, I’m @retseng
 - 👀 I’m currently studying bioinformatics at UCSD!
-- 🌱 Relevant Coursework: discrete math (CSE 20), data structures (CSE 12), software tools/techniques (CSE 15L), biology laboratory (BILD 4), general chemistry I/II (CHEM 6A/6B)
+- 🌱 Relevant Coursework: data structures (CSE 12), software tools/techniques (CSE 15L), mathematics for algorithms and systems analysis (CSE 21), discrete math (CSE 20),  biology laboratory (BILD 4), general chemistry I/II (CHEM 6A/6B)
 - 🖥️ I work as an undergraduate researcher at the **Gaulton Lab**
 - 📄 [Resume](Tseng_Resume.pdf)
 - 📫 How to reach me: retseng@ucsd.edu
