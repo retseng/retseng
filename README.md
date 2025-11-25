@@ -1,6 +1,6 @@
 - 👋 Bonjour, I’m @retseng
 - 👀 I’m currently studying bioinformatics at UCSD!
 - 🖥️ I work as an undergraduate researcher at the **Gaulton Lab**
-- 📄 [Resume](Tseng_Resume.pdf)
+- 📄 [Resume](Tseng_Resume_.pdf)
 - 📫 How to reach me: retseng@ucsd.edu
 - ⚡ Fun fact: I am a [classically trained pianist](https://www.youtube.com/watch?v=JFrJAjz57l8&list=PLQiV0dKfYhz8Xv3nAGd2K3eEpDjA7MBmO) and have absolute pitch :)
