@@ -1,5 +1,3 @@
-![Image](profile.png)
-***
 - 👋 Bonjour, I’m @retseng
 - 👀 I’m currently studying bioinformatics at UCSD!
 - 🖥️ I work as an undergraduate researcher at the **Gaulton Lab**
